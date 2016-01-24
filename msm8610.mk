@@ -85,6 +85,7 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     libboringssl-compat \
     libshim_qcopt \
+    Snap
 
 # IPC router config
 PRODUCT_COPY_FILES += \
